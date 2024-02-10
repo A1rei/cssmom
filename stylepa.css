@@ -3,8 +3,13 @@
     }
     
     .CXR {
-    margin:auto; width:500px; overflow:hidden; 
-    text-align:left; font-family:Arial; line-height:16px; 
+    margin:auto; 
+    width:500px; 
+    overflow:hidden; 
+    text-align:left; 
+    font-family:Arial; 
+    line-height:16px; 
+    border-radius: 10px;
     }
     .CXR a {
     text-decoration:none !important;
