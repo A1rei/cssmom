@@ -33,9 +33,17 @@
     width:525px; height:200px; filter:blur(5px); -webkit-filter:blur(5px);
     }
     .abtCXR {
-    position:absolute; z-index:5; margin-top:25px; margin-left:300px; 
-    width:161px; height:115px; padding:5px 7px; overflow:hidden; 
-    font-size:10px; font-family:Arial; line-height:16px;
+    position:absolute;
+     z-index:5; 
+     margin-top:25px; 
+     margin-left:300px; 
+    width:161px; 
+    height:115px; 
+    padding:5px 7px;
+     overflow:hidden; 
+    font-size:10px; 
+    font-family:'Open Sans'; 
+    line-height:16px;
     }
     .abtCXR:hover {
     overflow-y:auto;
@@ -60,7 +68,7 @@
     height:305px; 
     overflow:hidden; 
     text-align:justify; 
-    font-size:16px; 
+    font-size:14px; 
     font-family:'Open Sans'; 
     line-height:16px;
 
