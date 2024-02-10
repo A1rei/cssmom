@@ -45,9 +45,16 @@
     width:300px; padding-top:15px;  
     }
     .tleCXR {
-    height:15px; padding:20px 0; overflow:hidden;
-    text-align:center; text-transform:uppercase; font-size:18px; font-family:Arial; line-height:16px;
+    height:15px; 
+    padding:20px 0; 
+    overflow:hidden;
+    text-align:center;
+    text-transform:uppercase;
+    font-size:18px; 
+    font-family:'Open Sans';
+    line-height:16px;
     }
+
     .ctxtCXR {
     margin:10px auto 0; 
     height:305px; 
@@ -56,6 +63,7 @@
     font-size:16px; 
     font-family:'Open Sans'; 
     line-height:16px;
+
     }
     .ctxtCXR:hover {
     padding-right:5px; overflow-y:auto;		
