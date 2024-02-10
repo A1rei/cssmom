@@ -11,7 +11,7 @@
     line-height:16px; 
     border-radius: 10px;
     border: solid #1D1C22 5px
-    
+
     }
     .CXR a {
     text-decoration:none !important;
@@ -29,6 +29,7 @@
     .imgCXR {
     position:absolute; z-index:5; margin-top:25px; margin-left:25px; 
     width:250px; height:125px;
+    border-radius: 5px;
     }
     .bgCXR {
     margin-top:-15px; margin-left:-10px; 
@@ -46,6 +47,7 @@
     font-size:12px; 
     font-family:'Open Sans'; 
     line-height:16px;
+    border-radius: 5px;
     }
     .abtCXR:hover {
     overflow-y:auto;
@@ -63,6 +65,7 @@
     font-size:18px; 
     font-family:'Open Sans';
     line-height:16px;
+    border-radius: 5px;
     }
 
     .ctxtCXR {
@@ -85,7 +88,9 @@
     margin:5px auto; width:145px; height:50px; overflow:hidden; text-align:center;
     }
     .staffCXR img {
-    width:145px; height:50px;
+    width:145px; 
+    height:50px;
+    border-radius: 5px;
     }
     .staffCXR div {
     position:relative; z-index:5; 
@@ -107,6 +112,7 @@
     width:145px; height:16px; padding:2px 0; overflow:hidden;
     text-transform:uppercase; font-size:10px; letter-spacing:0; font-family:Arial; line-height:16px;
     transition:all 0.65s linear; -webkit-transition:all 0.65s linear;
+    border-radius: 3px;
     }
     .lksCXR a:hover {
     letter-spacing:0.5px;
@@ -115,7 +121,11 @@
     width:155px; padding-bottom:5px; text-align:left; 
     }
     .pfCXR a {
-    display:inline-block; vertical-align:top; margin-top:5px; margin-left:5px;
+    display:inline-block; 
+    vertical-align:top; 
+    margin-top:5px;
+    margin-left:5px;
+    border-radius: 3px;
     }
     .pfCXR img {
     width:45px; height:45px; 
@@ -137,11 +147,17 @@
     text-transform:uppercase; font-size:11px; font-family:Arial; text-align:center; line-height:16px;
     }
     .btmCXR div b {
-    display:block; font-weight:normal; letter-spacing:2px;
+    display:block; 
+    font-weight:normal; 
+    letter-spacing:2px;
+    border-radius: 3px;
     }
     .btmCXR div:nth-of-type(1) b {
     display:block; font-weight:normal; letter-spacing:4px;
     }
     .btmCXR a {
-    display:inline-block; vertical-align:top; margin-left:10px; 
+    display:inline-block; 
+    vertical-align:top; 
+    margin-left:10px; 
+    border-radius: 5px;
     }
