@@ -10,6 +10,8 @@
     font-family:Arial; 
     line-height:16px; 
     border-radius: 10px;
+    border: solid #1D1C22 5px
+    
     }
     .CXR a {
     text-decoration:none !important;
@@ -41,7 +43,7 @@
     height:115px; 
     padding:5px 7px;
      overflow:hidden; 
-    font-size:10px; 
+    font-size:12px; 
     font-family:'Open Sans'; 
     line-height:16px;
     }
